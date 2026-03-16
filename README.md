@@ -1,6 +1,6 @@
 # Digital Wallet / Payment Gateway Backend
 
-## Spring Boot - BFSI / Fintech Project
+## Spring Boot - Fintech Project
 
 ### Overview
 A production-grade digital wallet system with secure payment gateway features including:
